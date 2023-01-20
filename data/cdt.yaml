@@ -4,9 +4,9 @@
 #download: bash ./scripts/get_coco.sh
 
 # train and val data as 1) directory: path/images/, 2) file: path/images.txt, or 3) list: [path1/images/, path2/images/]
-train: ../DATA/train.txt  # 118287 images
-val: ../DATA/val.txt  # 5000 images
-test: ../DATA/test.txt  # 20288 of 40670 images, submit to https://competitions.codalab.org/competitions/20794
+train: ../DATA/clockNumData_Yolo7/train.txt  # 118287 images
+val: ../DATA/clockNumData_Yolo7/val.txt  # 5000 images
+test: ../DATA/clockNumData_Yolo7/test.txt  # 20288 of 40670 images, submit to https://competitions.codalab.org/competitions/20794
 
 # number of classes
 nc: 10
