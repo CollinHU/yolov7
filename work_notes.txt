@@ -1,0 +1,1 @@
+1. is adjusting the scales of digits to fit yolo7 model; 22 Jan 2023
