@@ -16,7 +16,8 @@ protobuf<4.21.3
 # Logging -------------------------------------
 tensorboard>=2.4.1
 # wandb
-
+#machine learning
+scikit-learn>=1.1.1
 # Plotting ------------------------------------
 pandas>=1.1.4
 seaborn>=0.11.0
